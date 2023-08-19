@@ -1,5 +1,5 @@
 let fun = () => {
-let user_input_enters = prompt("rock,paper,scissors......enter any one ,please enter correct spelling as i written and in lowercase"); 
+let user_input_enters = prompt("rock,paper,scissors......enter any one ,please enter correct spelling as i written."); 
    let user_input_data=user_input_enters.toLowerCase();
    console.log(user_input_data);
     let user_input = document.getElementById("user-input");
